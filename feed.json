@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Heini Furu / Hieronta ja hyvinvointi",
+    "description": "",
+    "home_page_url": "https://thepetrus.github.io/heinifuru-test",
+    "feed_url": "https://thepetrus.github.io/heinifuru-test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Heini Furu"
+    },
+    "items": [
+    ]
+}
